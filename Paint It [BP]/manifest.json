@@ -1,9 +1,9 @@
 {
     "format_version": 2,
     "header": {
-        "name": "Paint It [BP] (v1.0.0)",
+        "name": "Paint It [BP] (v1.2.0)",
         "description": "Brush WorldEditor For MCBE",
-        "uuid": "229ba120-829c-499f-8d6b-de65c5eb9b2e",
+        "uuid": "967dcbba-4b6e-4524-8fda-e5c00522a150",
         "version": [
             1,
             0,
@@ -18,7 +18,7 @@
     "modules": [
         {
             "type": "data",
-            "uuid": "4980d6d3-4474-4f75-aa92-72c9baf713ed",
+            "uuid": "3a0223b9-717d-4e9d-ab67-201a6707442c",
             "version": [
                 1,
                 0,
