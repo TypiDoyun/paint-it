@@ -1,0 +1,24 @@
+{
+    "resource_pack_name": "bridgeRP",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "eraser_setting": {
+            "textures": ["textures/items/eraser-setting"]
+        },
+        "sketcher_setting": {
+            "textures": ["textures/items/sketcher-setting"]
+        },
+        "painter_setting": {
+            "textures": ["textures/items/painter-setting"]
+        },
+        "eraser": {
+            "textures": ["textures/items/eraser"]
+        },
+        "painter": {
+            "textures": ["textures/items/painter"]
+        },
+        "undo": {
+            "textures": ["textures/items/undo"]
+        }
+    }
+}

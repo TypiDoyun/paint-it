@@ -1,0 +1,29 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Paint It [RP] (v1.0.0)",
+        "description": "Brush WorldEditor For Minecraft MCBE",
+        "uuid": "4980d6d3-4474-4f75-aa92-72c9baf713ed",
+        "version": [
+            1,
+            0,
+            3
+        ],
+        "min_engine_version": [
+            1,
+            13,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "77122548-7e9e-4dd9-83fb-7b1753abdadd",
+            "version": [
+                1,
+                0,
+                3
+            ]
+        }
+    ]
+}

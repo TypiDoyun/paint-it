@@ -1,0 +1,50 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Paint It [BP] (v1.0.0)",
+        "description": "Brush WorldEditor For MCBE",
+        "uuid": "229ba120-829c-499f-8d6b-de65c5eb9b2e",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            19,
+            70
+        ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "4980d6d3-4474-4f75-aa92-72c9baf713ed",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "description": "Paint It!",
+            "type": "script",
+            "uuid": "16923a1a-f9b6-4fa7-83e3-b03ac75c2753",
+            "version": [
+                0,
+                0,
+                1
+            ],
+            "entry": "scripts/main.js"
+        }
+    ],
+    "dependencies": [
+        {
+            "module_name": "@minecraft/server",
+            "version": "1.15.0-beta"
+        },
+        {
+            "module_name": "@minecraft/server-ui",
+            "version": "1.4.0-beta"
+        }
+    ]
+}
